@@ -1,0 +1,17 @@
+/training_checkpoints
+/embeddings
+/data/aclImdb 
+/data/multidomain
+/data/opinRank
+/data/sentiment140
+/data/Frames-dataset
+/Graph
+/pre-deploy_models
+/saved_model
+/scrape-twitter
+/serving
+/data
+embeddings_concat.txt
+embedding_concat.txt
+best_model_mk11.h5
+best_model_cudnnlstm.h5
